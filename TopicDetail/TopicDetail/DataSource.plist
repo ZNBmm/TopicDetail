@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>avatar</key>
+		<string>https://qlogo4.store.qq.com/qzone/2273412421/2273412421/100?1464618175</string>
+		<key>name</key>
+		<string>夏天</string>
+		<key>desc</key>
+		<string>哈哈哈哈,好久没撸了,手好痒啊</string>
+		<key>time</key>
+		<string>2015-10-10 10:10</string>
+		<key>content</key>
+		<string>古人如梦,我见犹怜.\n [-image0-]\n人生自古谁无死,哈哈\n[-image1-]\n性命是一场宿命的缘，从起点到终点，从无到有，从有到无，虽注定灰飞烟灭，但是，纷繁的嚣尘，来过，爱过，痛过，便无邪地微笑了，故无悔。流年逝，芳华尽，几多惆怅，几多惘然，只因剪不断，理还乱。此情此景皆如梦，心动且意动，只为追寻这不解宿命的缘。
+——梦语（三）\n[-image2-]\n当心成为碎片，我们还能否将它们拾起，重新补好？
+——梦语（二）\n[-image3-]</string>
+		<key>images</key>
+		<dict>
+			<key>image0</key>
+			<string>http://b267.photo.store.qq.com/psb?/V14FigKY37Aj94/kKKdkSg615*PLQrq9.CNCIWNqjvYAAg9c0D9uew8IoU!/b/dGS4LJ*YIgAA&amp;bo=IANYAgAAAAABB1k!&amp;rf=viewer_4</string>
+			<key>image1</key>
+			<string>http://b397.photo.store.qq.com/psb?/V14FigKY2wt7hr/wrg0IhbILptR5BhwBD6uqYgno*wkY2LqPt0la8AuYFM!/b/dI0BAAAAAAAA&amp;bo=gAJxBIUDQAYFCBw!&amp;rf=viewer_4</string>
+			<key>image2</key>
+			<string>http://b344.photo.store.qq.com/psb?/V14FigKY2wt7hr/D3u7BoFOIgUjyagoImsS88flkpg7Pb.A1ypTe.Ivt9A!/b/dFgBAAAAAAAA&amp;bo=kQNUBgAAAAAFAOM!&amp;rf=viewer_4</string>
+			<key>image3</key>
+			<string>http://b397.photo.store.qq.com/psb?/V14FigKY2wt7hr/mbai.mwApSdLV62w0XIFR16PUfW65BchSD0mgf61qLM!/b/dDQZpuwGJAAA&amp;bo=gAJVAwAAAAABAPM!&amp;rf=viewer_4</string>
+		</dict>
+	</dict>
+</array>
+</plist>
